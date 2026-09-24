@@ -3,4 +3,4 @@ faultinsight_sample_data:
         start: "2022-04-13 14:15"
         end: "2022-04-13 14:45"
     root_causes:
-        - "ss.estab"
+        - "[runtime]ssEstab"
